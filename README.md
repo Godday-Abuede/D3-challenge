@@ -1,5 +1,5 @@
 # D3-challenge
-url: https://godday-abuede.github.io/D3-challenge/index.html
+url: https://godday-abuede.github.io/D3-challenge/D3_data_journalism/
 
 # D3-challenge: Data Journalism and D3
 
